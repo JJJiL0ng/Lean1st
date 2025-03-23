@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
   _____                         _                    _     _   
  |_   _|__  __ _ _ __ ___      | |    ___  __ _ _ __ / |___| |_ 
@@ -5,19 +7,18 @@
    | |  __/ (_| | | | | | |____| |__|  __/ (_| | | | | \__ \ |_ 
    |_|\___|\__,_|_| |_| |_|    |_____\___|\__,_|_| |_|_|___/\__|
 ```
+</div>
 
 <div align="center">
   
 # 🌍 쇼츠맵 (Shorts Map) 🌍
 ### _새로운 지도 경험을 만들어가는 여정_ 
 
-<img src="/api/placeholder/800/200" alt="쇼츠맵 로고 배너"/>
 
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.io/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
